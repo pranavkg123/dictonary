@@ -1,1 +1,1 @@
-sum 30
+output : sum 30
